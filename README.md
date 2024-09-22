@@ -7,10 +7,11 @@ I'm an undergraduate student at the University of Sri Jayawardenepura, passionat
 ---
 
 ### 📊 GitHub Stats:
-![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilinajayamal&show_icons=true&locale=en&layout=compact" alt="thilinajayamal" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinajayamal&show_icons=true&locale=en" alt="thilinajayamal" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilinajayamal&" alt="thilinajayamal" /></p>
 ---
 
 ### 🛠 Tech Stack & Tools:
@@ -30,13 +31,5 @@ I'm an undergraduate student at the University of Sri Jayawardenepura, passionat
 - Mobile Application Development
 - Frontend Engineering
 - Learning new frameworks and tools
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilinajayamal&show_icons=true&locale=en&layout=compact" alt="thilinajayamal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinajayamal&show_icons=true&locale=en" alt="thilinajayamal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilinajayamal&" alt="thilinajayamal" /></p>
 
 ---
