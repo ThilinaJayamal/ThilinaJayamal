@@ -4,16 +4,6 @@
 
 I'm an undergraduate student at the University of Sri Jayawardenepura, passionate about technology and mobile application development. I'm always learning and improving my skills, currently focusing on side projects to sharpen my expertise in both web and mobile app development.
 
----
-
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilinajayamal&show_icons=true&locale=en&layout=compact" alt="thilinajayamal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinajayamal&show_icons=true&locale=en" alt="thilinajayamal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilinajayamal&" alt="thilinajayamal" /></p>
----
-
 ### 🛠 Tech Stack & Tools:
 - **Languages**: JavaScript, HTML, CSS, C, C#
 - **Frameworks & Libraries**: React, React Native, Next.js, Tailwind CSS
@@ -31,5 +21,12 @@ I'm an undergraduate student at the University of Sri Jayawardenepura, passionat
 - Mobile Application Development
 - Frontend Engineering
 - Learning new frameworks and tools
+
+### 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilinajayamal&show_icons=true&locale=en&layout=compact" alt="thilinajayamal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinajayamal&show_icons=true&locale=en" alt="thilinajayamal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilinajayamal&" alt="thilinajayamal" /></p>
 
 ---
