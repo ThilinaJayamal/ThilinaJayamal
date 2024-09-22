@@ -22,11 +22,14 @@ I'm an undergraduate student at the University of Sri Jayawardenepura, passionat
 - Frontend Engineering
 - Learning new frameworks and tools
 
+
 ### 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilinajayamal&show_icons=true&locale=en&layout=compact" alt="thilinajayamal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinajayamal&show_icons=true&locale=en" alt="thilinajayamal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilinajayamal&" alt="thilinajayamal" /></p>
+
+- 📫 How to reach me **thilinajayamal271@gmail.com**
 
 ---
