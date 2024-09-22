@@ -33,12 +33,10 @@ I'm an undergraduate student at the University of Sri Jayawardenepura, passionat
 
 ---
 
-### ✨ Fun Stats:
-- ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen) 
-- ![Followers](https://img.shields.io/github/followers/yourusername?label=Followers)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilinajayamal&show_icons=true&locale=en&layout=compact" alt="thilinajayamal" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinajayamal&show_icons=true&locale=en" alt="thilinajayamal" /></p>
 
-**Feel free to check out my projects and connect with me!**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilinajayamal&" alt="thilinajayamal" /></p>
 
 ---
