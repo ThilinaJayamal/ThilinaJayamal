@@ -47,7 +47,7 @@
 ## 📌 Featured Projects
 
 - [🔗 Prime Gadgets](https://github.com/ThilinaJayamal/prime-gadgets) — MERN stack e-commerce platform with Stripe  
-- [🔗 MyDialog Clone](https://github.com/ThilinaJayamal/mydialog-clone) — Mobile app clone with React Native + Expo  
+- [🔗 Camera App](https://github.com/ThilinaJayamal/camera-app) — Camera App with React Native + Expo  
 - More projects coming soon... 🚧
 
 ---
