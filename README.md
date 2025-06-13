@@ -8,8 +8,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Undergraduate at University of Sri Jayewardenepura  
-- 💼 Passionate about **Mobile App Development** with React Native & Expo  
-- 🌐 Also skilled in **Web Development** using React & MERN Stack  
+- 💼 Passionate about **Web Development** using React & MERN Stack  
+- 🌐 Also skilled in **Mobile App Development** with React Native & Expo
 - 💡 I love solving real-world problems with code  
 
 ---
@@ -55,7 +55,7 @@
 ## 📫 Let's Connect!
 
 - 📧 Email: jayamalt398@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/thilinajayamal](https://linkedin.com/in/thilinajayamal)  
+- 🌐 LinkedIn: [linkedin.com/in/thilinajayamal](https://www.linkedin.com/in/thilina-jayamal-b70160213/)  
 - 💬 DM me for collaborations, internships, or freelance projects!
 
 ---
