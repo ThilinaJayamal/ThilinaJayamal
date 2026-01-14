@@ -26,7 +26,7 @@ I am a motivated and self-driven **BICT(Honors) Undergraduate** at the **Univers
 | **Frameworks** | React, Next.js, Spring Boot, Node.js, Express.js |
 | **Mobile** | React Native, Expo |
 | **Databases** | MongoDB, MySQL, PostgreSQL |
-| **Infrastructure** | Docker, AWS, Linux, Git, Postman |
+| **Tools** | Docker, AWS, Linux, Git, Postman |
 
 ---
 
