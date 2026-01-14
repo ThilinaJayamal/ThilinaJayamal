@@ -1,73 +1,80 @@
-<!-- Profile README for Thilina Jayamal -->
+# 👋 Hi, I am Thilina Jayamal
 
-<h1 align="center">Hi there, I'm Thilina Jayamal 👋</h1>
-<p align="center">🚀 Undergraduate | 📱 Mobile & Web Developer | 🧠 Lifelong Learner</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Undergraduate at University of Sri Jayewardenepura  
-- 💼 Passionate about **Web Development** using React, Next.js & MERN Stack  
-- 🌐 Also skilled in **Mobile App Development** with React Native & Expo  
-- 💻 Currently exploring **Java & Spring Boot** for backend services  
-- 💡 I love solving real-world problems with code  
-
----
-
-## 🚀 Tech Stack
-
-**Languages & Frameworks**
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=23A7F7&center=true&vCenter=true&width=800&height=100&lines=THILINA+JAYAMAL;SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
 </div>
 
-**Tools & Platforms**
-<div>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+### 🔭 Professional Summary
+I am a motivated and self-driven **BICT(Honors) Undergraduate** at the **University of Sri Jayewardenepura**. With a solid foundation in software engineering and an **Island Rank of 23** in GCE Advanced Level, I am dedicated to building efficient, real-world digital solutions.
+
+- 🎓 **Education:** 3rd Year BICT(Hons) Student.
+- 🏆 **Top Achievement:** Island Rank 23 (Engineering Technology).
+- 💻 **Core Focus:** MERN Stack, Spring Boot, and React Native.
+- 🗺️ **Location:** Matara, Sri Lanka.
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Technical Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cs,python,react,nextjs,tailwind,redux,nodejs,express,spring,mongodb,mysql,postgres,docker,aws,linux,git,github,postman,figma" />
+</div>
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript, TypeScript, C#, Python |
+| **Frameworks** | React, Next.js, Spring Boot, Node.js, Express.js |
+| **Mobile** | React Native, Expo |
+| **Databases** | MongoDB, MySQL, PostgreSQL |
+| **Infrastructure** | Docker, AWS, Linux, Git, Postman |
+
+---
+
+### 🌟 High-Impact Projects
+
+#### 🤖 [Quiz Master - AI Quiz Platform](https://github.com/ThilinaJayamal/Al-powerd-Quiz-App-Frontend)
+*AI-powered platform that generates quizzes from PDF documents or text using OpenAI.*
+- **Backend:** Spring Boot, PostgreSQL, Spring Security.
+- **Frontend:** React, Result visualization, and analytics dashboards.
+
+#### 🏫 [Edu Link - Classroom Automation](https://github.com/USJP-FOT/EDU-LINK)
+*Smart classroom system integrating AI/ML for face recognition attendance.*
+- **Mobile:** React Native app connected to Spring Boot backend.
+- **Features:** RFID-based smart lockers and real-time environmental monitoring.
+
+#### 💰 [Cash X Flow - Finance App](https://github.com/ThilinaJayamal/Personal-Finance-Manager)
+*Full-stack system for tracking income and expenses with interactive charts.*
+- **Tech:** React, Express, MongoDB, Chart.js, Tailwind CSS.
+
+---
+
+### 📜 Professional Certifications
+- **GitHub Foundations** (Valid until Oct 2027) - Microsoft 
+- **Java Spring Framework 6 & Spring Boot 3** - Telusko (Udemy)
+- **Frontend Developer (React)** - HackerRank
+- **Crash Course: AWS Basics** - Kodekloud
+
+---
+
+### 📊 Performance Metrics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThilinaJayamal&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilinaJayamal&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThilinaJayamal&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilinaJayamal&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ThilinaJayamal&theme=tokyonight&no-bg=true&column=4" alt="trophy" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-- [🔗 Prime Gadgets](https://github.com/ThilinaJayamal/prime-gadgets) — MERN stack e-commerce platform with Stripe  
-- [🔗 Camera App](https://github.com/ThilinaJayamal/camera-app) — Camera App with React Native + Expo  
-- More projects coming soon... 🚧
-
----
-
-## 📫 Let's Connect!
-
-- 📧 Email: jayamalt398@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/thilinajayamal](https://www.linkedin.com/in/thilina-jayamal-b70160213/)  
-- 💬 DM me for collaborations, internships, or freelance projects!
-
----
+### 🤝 Let's Connect
+<div align="center">
+  <a href="https://linkedin.com/in/thilinajayamal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:thilinajayamal271@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://thilinajayamal.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThilinaJayamal&label=Profile%20views&color=blue&style=flat" alt="ThilinaJayamal" />
+  <img src="https://komarev.com/ghpvc/?username=ThilinaJayamal&label=Profile%20Views&color=0099ff&style=flat-square" />
 </p>
