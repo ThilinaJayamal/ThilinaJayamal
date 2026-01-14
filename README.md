@@ -57,14 +57,9 @@ I am a motivated and self-driven **BICT(Honors) Undergraduate** at the **Univers
 ---
 
 ### 📊 Performance Metrics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThilinaJayamal&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilinaJayamal&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThilinaJayamal&theme=tokyonight&no-bg=true&column=4" alt="trophy" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=thilinajayamal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thilinajayamal&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thilinajayamal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
