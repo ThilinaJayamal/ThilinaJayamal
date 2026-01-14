@@ -28,23 +28,6 @@ I am a motivated and self-driven **BICT(Honors) Undergraduate** at the **Univers
 | **Databases** | MongoDB, MySQL, PostgreSQL |
 | **Tools** | Docker, AWS, Linux, Git, Postman |
 
----
-
-### 🌟 High-Impact Projects
-
-#### 🤖 [Quiz Master - AI Quiz Platform](https://github.com/ThilinaJayamal/Al-powerd-Quiz-App-Frontend)
-*AI-powered platform that generates quizzes from PDF documents or text using OpenAI.*
-- **Backend:** Spring Boot, PostgreSQL, Spring Security.
-- **Frontend:** React, Result visualization, and analytics dashboards.
-
-#### 🏫 [Edu Link - Classroom Automation](https://github.com/USJP-FOT/EDU-LINK)
-*Smart classroom system integrating AI/ML for face recognition attendance.*
-- **Mobile:** React Native app connected to Spring Boot backend.
-- **Features:** RFID-based smart lockers and real-time environmental monitoring.
-
-#### 💰 [Cash X Flow - Finance App](https://github.com/ThilinaJayamal/Personal-Finance-Manager)
-*Full-stack system for tracking income and expenses with interactive charts.*
-- **Tech:** React, Express, MongoDB, Chart.js, Tailwind CSS.
 
 ---
 
