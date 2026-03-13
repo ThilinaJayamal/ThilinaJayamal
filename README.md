@@ -30,14 +30,6 @@ I am a motivated and self-driven **BICT(Honors) Undergraduate** at the **Univers
 
 ---
 
-### 📜 Professional Certifications
-- **GitHub Foundations** (Valid until Oct 2027) - Microsoft 
-- **Java Spring Framework 6 & Spring Boot 3** - Telusko (Udemy)
-- **Frontend Developer (React)** - HackerRank
-- **Crash Course: AWS Basics** - Kodekloud
-
----
-
 ### 📊 Performance Metrics
 ![](https://github-readme-stats.vercel.app/api?username=thilinajayamal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=thilinajayamal&theme=github_dark&hide_border=false)<br/>
