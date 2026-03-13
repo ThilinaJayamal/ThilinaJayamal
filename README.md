@@ -5,10 +5,9 @@
 </div>
 
 ### 🔭 Professional Summary
-I am a motivated and self-driven **BICT(Honors) Undergraduate** at the **University of Sri Jayewardenepura**. With a solid foundation in software engineering and an **Island Rank of 23** in GCE Advanced Level, I am dedicated to building efficient, real-world digital solutions.
+I am a motivated and self-driven **BICT(Honors) Undergraduate** at the **University of Sri Jayewardenepura**. I am dedicated to building efficient, real-world digital solutions.
 
-- 🎓 **Education:** 3rd Year BICT(Hons) Student.
-- 🏆 **Top Achievement:** Island Rank 23 (Engineering Technology).
+- 🎓 **Education:** 4th Year BICT(Hons) Student.
 - 💻 **Core Focus:** MERN Stack, Spring Boot, and React Native.
 - 🗺️ **Location:** Matara, Sri Lanka.
 
